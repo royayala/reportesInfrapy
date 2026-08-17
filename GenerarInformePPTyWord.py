@@ -1,6 +1,6 @@
-# Autor: Raimundo Roy Ayala Galvis
+# Autor: Roy Ayala Galvis
 # uso: crear informes mensuales del estado de los servidores
-# Pre requsitos: tienen q estar abierto el navegador chrome con las paginas que se quiere capturar obligatoriamente en este caso 26 tabs
+# Pre requsitos: tienen q estar abierto el navegador con las paginas que se quiere capturar obligatoriamente
 
 import pyautogui
 import time
